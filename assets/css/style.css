@@ -18,6 +18,17 @@
   float: left;
 }
 
+.bred {
+  background: darkgray;
+}
+.wht {
+  background: white;
+}
+.pd-2 {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
 h1 {
   font-family: 'Georgia', Times, 'Times New Roman', serif;
   font-size: x-large;
